@@ -1,0 +1,23 @@
+﻿  Laba1.cpp
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:  =: преобразование "T" в "int", возможна потеря данных
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:         with
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:         [
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:             T=float
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:         ]
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(389): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string Standart<float>(T)"
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(389): message :         with
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(389): message :         [
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(389): message :             T=float
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(389): message :         ]
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(244,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:  =: преобразование "T" в "int", возможна потеря данных
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:         with
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:         [
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:             T=double
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(198,22): warning C4244:         ]
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(391): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string Standart<double>(T)"
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(391): message :         with
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(391): message :         [
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(391): message :             T=double
+C:\Users\qweds\source\repos\Laba1\Laba1\Laba1.cpp(391): message :         ]
+  Laba1.vcxproj -> C:\Users\qweds\source\repos\Laba1\Debug\Laba1.exe
